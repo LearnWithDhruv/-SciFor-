@@ -1,0 +1,4 @@
+Hello, My name is Dhruv Khatter!
+this is a sample text!
+and I am using this file for my python test!
+Count on to see no of lines, words and letters it has!
